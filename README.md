@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JatinSharma
-- 👀 I’m interested in distributed computing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on big data projects
+- 👀 I'm a web developer
+- My website: thanku4listening.com
 - 📫 How to reach me ... mail id: jatinshr89@gmail.com
 
 <!---
